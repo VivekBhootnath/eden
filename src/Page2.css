@@ -1,0 +1,24 @@
+#one{
+    background-color: hsla(253, 69%, 51%, 0.795);
+    color: white;
+}
+.card {
+    overflow: visible;
+    text-align: center;
+}
+.card-title{
+    width: 120%;
+margin-left: -10%;
+}
+span{
+    opacity: 0.5;
+}
+.input-group-text{
+    height: 30px;
+    font-size: small;
+}
+.inputicon2{
+
+margin-left: auto;
+margin-right: auto;
+}

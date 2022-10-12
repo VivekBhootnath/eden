@@ -1,0 +1,68 @@
+.card-title{
+    font-size: x-large;
+    font-weight: 700;
+  }
+  .card-text{
+    font-size: small;
+    color:rgb(71, 85, 85);
+    opacity: 0.8;
+   
+  }
+  form{
+    text-align: left;
+    font-size:small;
+  }
+  label{
+    font-size:small;
+    font-weight: 600;
+    margin-left: 5%;
+  }
+  .form-control{
+    height: 30px;
+    align-items: center;
+    padding: 5px;
+    font-size:small;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .progress{
+    width: 100%;
+    height: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15%;
+    background-color:white;
+  }
+  .stepbar{
+    position:absolute;
+    margin-left:10%;
+    margin-top: 15px;
+    width:50%;
+    height: 1px;
+    background-color: rgb(199, 199, 199);
+    opacity: 0.5;
+  }
+  
+  .stepbox{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+  }
+  
+  
+  .steps{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: solid 1px rgba(214, 214, 212, 0.718);
+    color:black;
+
+    background-color: #fff;
+   padding-top:14px;
+   font-size: 15px;
+   align-items: center;
+   text-align: center;
+  }
+  
